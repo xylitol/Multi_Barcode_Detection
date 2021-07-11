@@ -7,4 +7,4 @@
 
 ## Detection Algorithm
 이미지 처리 과정
-<p align="center"><img src="./imgs/flow2.jpg" width="90%" height="80%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="./imgs/flow2.jpg" width="80%" height="70%" title="70px" alt="memoryblock"></p>
