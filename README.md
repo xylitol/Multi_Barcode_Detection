@@ -3,3 +3,7 @@
 
 ## Demo
 <p align="center"><img src="./imgs/Demo.gif" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+
+
+## Detection Algorithm
+<p align="center"><img src="./imgs/flow2.jpg" width="90%" height="90%" title="70px" alt="memoryblock"></p>
