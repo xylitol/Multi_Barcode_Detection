@@ -1,5 +1,5 @@
 # Multi_Barcode_Detection
-성능이 제한된 플랫폼에서도 사용할 수 있는 C++ 알고리즘 구현
+성능이 제한된 플랫폼에서도 사용할 수 있는 C++ 알고리즘 구현, 안드로이드에 사용하기 위해 NDK의 JNI 사용
 
 ## Demo
 <p align="center"><img src="./imgs/Demo.gif" width="80%" height="80%" title="70px" alt="memoryblock"></p>
