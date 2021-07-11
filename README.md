@@ -4,6 +4,7 @@
 ## Demo
 <p align="center"><img src="./imgs/Demo.gif" width="80%" height="80%" title="70px" alt="memoryblock"></p>
 
+<br><br>
 
 ## Detection Algorithm
 이미지 처리 과정
