@@ -8,4 +8,13 @@
 
 ## Detection Algorithm
 이미지 처리 과정
-<p align="center"><img src="./imgs/flow2.jpg" width="80%" height="70%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="./imgs/flow2.jpg" width="80%" height="60%" title="70px" alt="memoryblock"></p>
+
+<br><br>
+
+## Development Environment
+* C++
+* OpenCV 4.4.0
+* Zbar 0.2.3
+* Ubunto 16.04
+* Webcam
