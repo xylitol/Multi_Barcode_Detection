@@ -14,8 +14,6 @@ Ubuntu 환경에서 알고리즘 구현 테스트 데모
 <br><br>
 
 ## Development Environment
-* C++
 * OpenCV 4.4.0
 * Zbar 0.2.3
-* Ubunto 16.04
-* Webcam
+* Ubuntu 16.04
